@@ -1,0 +1,16 @@
+[
+  {
+  "FirstName": "Test",
+  "LastName": "one",
+  "Email": "test1@mial.com",
+  "Password": "test",
+  "Confirmpassword": "test"
+} ,
+{
+  "FirstName": "Test",
+  "LastName": "two",
+  "Email": "test2@mial.com",
+  "Password": "test",
+  "Confirmpassword": "test"
+}
+]
